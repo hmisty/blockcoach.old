@@ -32,11 +32,13 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 43,
+    "uniqCompNum": 45,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/ptyj/Desktop/blockcoach.com"
   },
   "pages": {
     "index.html": {
